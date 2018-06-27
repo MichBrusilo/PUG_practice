@@ -1,6 +1,7 @@
 body {
 	display: flex;
 	justify-content: center;
+	background-color: #dcdde1;
 	}
 
 .box {
@@ -18,7 +19,7 @@ a {
 
 button {
 	margin-top: 80px;
-	padding: 15px;
+	padding: 20px;
 	display: flex;
 	justify-content: center;
 	font-size: 1.5em;
@@ -27,5 +28,6 @@ button {
 	cursor: pointer;
 	background-color: #2f3640;
 	color: #7f8fa6;
+	margin: auto;
 }
 
